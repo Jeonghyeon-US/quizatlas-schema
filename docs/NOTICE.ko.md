@@ -73,7 +73,7 @@
 ## 연락처 (Contact Information)
 
 문의 사항 (예: 파트너십, 기술 통합, 학술 협력, 라이선스 논의 등)은  
-메인 저장소의 안내된 연락 방법을 이용해 주시기 바랍니다.
+quizatlas.project@gmail.com을 이용해 주시기 바랍니다.
 
 ## 법적 준수 (Legal Compliance)
 

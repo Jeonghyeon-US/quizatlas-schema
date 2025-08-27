@@ -126,7 +126,7 @@ npm run validate:ko       # Korean samples only
 ## Provenance & Licensing
 - Sources are **publicly released** exam materials; this repo only demonstrates transformation structure.
 - All original copyrights remain with their owners (e.g., KICE, publishers).
-- See [`/docs/NOTICE.md`](./docs/NOTICE.md) for details.
+- quizatlas.project@gmail.com for details.
 
 ---
 

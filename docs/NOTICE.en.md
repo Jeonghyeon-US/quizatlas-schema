@@ -78,7 +78,7 @@ For inquiries about:
 - Academic collaboration
 - Licensing discussions
 
-Please use the contact methods specified in the main repository documentation.
+Please use the contact quizatlas.project@gmail.com.
 
 ## Legal Compliance
 
