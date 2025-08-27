@@ -1,0 +1,60 @@
+QuizAtlas Demo – Composite License
+
+Copyright (c) 2025 **Jeonghyeon Lim (QuizAtlas Project)**
+
+This repository contains multiple asset types with **different license terms**. To avoid ambiguity, each category is licensed as follows.
+
+---
+A) SOFTWARE (CODE & SCHEMA DOCS) — MIT LICENSE
+
+The following are considered “Software”: source code, scripts, TypeScript types, build/config files, and **schema documentation/structure** (Markdown and code snippets that describe how data is organized), excluding any third‑party exam text.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to **use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software**, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+B) DEMO CONTENT — EVALUATION-ONLY LICENSE (NON‑COMMERCIAL)
+
+The following are considered “Demo Content”: **sample JSON derived from exams**, any passages, questions, options, explanations, figures, or other **educational content** reproduced, excerpted, or paraphrased in this repository for demonstration purposes.
+
+**Permitted uses:**
+- Academic research and non‑commercial educational discussion
+- Internal, non‑commercial technical evaluation and feasibility assessment
+
+**Prohibited without a separate written agreement:**
+- Commercial use or distribution of the Demo Content
+- Creating derivative products or services based on the Demo Content
+- Redistributing educational content or sample JSON outside this repository
+- **Training or fine‑tuning models on the Demo Content**
+
+**Conditions:**
+1) This notice must accompany all copies of the Demo Content.
+2) Educational content remains the intellectual property of its original rightsholders.
+3) Any other use requires a separate written license from the rightsholders and/or the repository owner.
+
+THE DEMO CONTENT IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND.
+
+---
+C) THIRD‑PARTY RIGHTS & PROVENANCE NOTICE
+
+Educational exam materials referenced or excerpted for demonstration remain the property of their original rightsholders, including but not limited to:
+- **Korea Institute for Curriculum and Evaluation (KICE)**
+- Educational publishers and original content creators
+
+Use of any third‑party educational content is subject to applicable copyright laws and any separate terms imposed by such rightsholders. This repository provides small excerpts **solely for demonstration and evaluation**.
+
+---
+D) TRADEMARKS
+
+All trademarks, service marks, and logos are the property of their respective owners. Use of names such as KICE or other organizations is for identification only and does not imply endorsement.
+
+---
+E) CONTACT
+
+For commercial licensing, partnership discussions, or questions about permitted use, please see `/docs/NOTICE.md` for contact details.
+
+---
+**Note:** This composite license is provided for clarity and is **not legal advice**. If you need legal certainty for your use case, consult an attorney.

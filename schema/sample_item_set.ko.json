@@ -1,0 +1,188 @@
+{
+  "questionId": "DEMO-2508-KOR-S0001-KOdemo",
+  "locale": "ko-KR",
+  "questionType": "set",
+  "idComponents": {
+    "organizationCode": "DEMO",
+    "yearMonth": "2508", 
+    "subjectCode": "KOR",
+    "questionType": "S",
+    "questionNumber": "0001",
+    "roleCode": "IN",
+    "memberCode": "demo",
+    "academicYear": "2025"
+  },
+  
+  "organizationCode": "DEMO",
+  "organizationName": "QuizAtlas Demo",
+  "organizationType": "demo",
+  
+  "questionNumber": 1,
+  "examInfo": {
+    "examName": "QuizAtlas 데모 세트",
+    "examDate": "2025-08-25T00:00:00.000Z",
+    "academicYear": "2025",
+    "subject": {
+      "group": "국어",
+      "detail": "독서",
+      "code": "KOR"
+    }
+  },
+  
+  "content": {
+    "setTitle": "공정 무역 제도 이해",
+    "commonPassage": {
+      "title": "반덤핑 및 상계 관세",
+      "content": "국제 무역에서 공정한 경쟁 질서를 유지하는 것은 자유무역의 혜택을 보장하는 필수 조건이다. 그러나 일부 기업이나 국가는 부당한 방법으로 시장을 왜곡시켜 경쟁 우위를 확보하려 한다. 이러한 불공정 무역 행위에 대응하기 위해 세계무역기구(WTO)는 반덤핑 관세와 상계 관세라는 두 가지 핵심적인 무역 구제 제도를 인정하고 있다.",
+      "passageType": "비문학",
+      "textGenre": "설명문",
+      "wordCount": 420,
+      "readingLevel": "고등학교 3학년",
+      "sourceInfo": "QuizAtlas 데모용 축약 지문"
+    },
+    
+    "questions": [
+      {
+        "questionNumber": 1,
+        "stem": "윗글의 내용과 일치하지 않는 것은?",
+        "options": [
+          {
+            "identifier": "①",
+            "text": "덤핑은 수출 기업이 자국 시장과 수출 시장에서 동일 상품에 대해 다른 가격을 책정하는 행위이다.",
+            "isCorrect": true,
+            "explanation": "덤핑은 동일 상품의 가격 차별 행위로 정확한 설명입니다."
+          },
+          {
+            "identifier": "②",
+            "text": "상계 관세의 대상이 되는 보조금은 정부의 재정적 기여만 있으면 된다.",
+            "isCorrect": false,
+            "explanation": "보조금은 재정적 기여, 혜택 부여, 특정성의 세 요건을 모두 충족해야 합니다."
+          }
+        ],
+        "correctAnswer": "①",
+        "scorePoint": 2,
+        
+        "hints": [
+          {
+            "level": 1,
+            "content": "각 선택지를 지문의 내용과 꼼꼼히 대조해보세요.",
+            "revealConditions": {
+              "attemptCount": 1,
+              "timeElapsed": 30
+            }
+          }
+        ]
+      },
+      
+      {
+        "questionNumber": 2,
+        "stem": "윗글을 바탕으로 추론한 내용으로 적절하지 않은 것은?",
+        "options": [
+          {
+            "identifier": "①",
+            "text": "무역 구제 조사가 개시되면 실제 관세 부과 여부와 관계없이 수출 기업에 부담으로 작용할 것이다.",
+            "isCorrect": true,
+            "explanation": "냉각 효과로 인해 조사 개시만으로도 부정적 영향을 미칩니다."
+          },
+          {
+            "identifier": "②",
+            "text": "반덤핑 관세와 상계 관세는 규제 대상이 다르므로 동일한 상품에 동시에 부과될 수 없을 것이다.",
+            "isCorrect": false,
+            "explanation": "규제 대상이 다르므로(민간 vs 정부) 동시 부과가 가능합니다."
+          }
+        ],
+        "correctAnswer": "①",
+        "scorePoint": 3
+      }
+    ]
+  },
+  
+  "setAnalysis": {
+    "totalQuestions": 2,
+    "totalScore": 5,
+    "difficulty": "medium",
+    "estimatedTime": 6,
+    
+    "searchTags": ["#국제무역", "#반덤핑", "#상계관세", "#WTO", "#독서"],
+    "categoryTags": ["국어_독서", "비문학_설명문"],
+    "difficultyTags": ["중간", "분석적사고", "추론"],
+    "conceptTags": ["국제무역", "무역구제", "공정경쟁"],
+    
+    "timeDistribution": {
+      "passageReading": 180,
+      "questionSolving": 180,
+      "total": 360
+    },
+    
+    "expectedSetSuccessRate": 0.65
+  },
+  
+  "references": [
+    {
+      "type": "textbook",
+      "title": "고등학교 독서",
+      "section": "사회문화 분야 독서",
+      "relevance": "high",
+      "description": "교과서 내 관련 학습 내용"
+    },
+    {
+      "type": "regulation",
+      "title": "WTO 반덤핑 협정",
+      "url": "https://www.wto.org/english/docs_e/legal_e/19-adp_01_e.htm",
+      "relevance": "medium",
+      "description": "국제 무역 규정의 법적 근거"
+    }
+  ],
+  
+  "setCreatorNotes": {
+    "designIntent": "국제 무역의 공정성 확보 제도를 이해하고 분석적 사고력을 평가하는 세트입니다.",
+    "teachingTips": [
+      "지문을 충분히 읽고 전체적인 흐름을 파악한 후 문제를 해결하도록 지도하세요.",
+      "1번은 사실적 이해, 2번은 추론 능력을 측정하므로 단계적 접근을 권장합니다."
+    ],
+    "setStructure": {
+      "readingStrategy": "전체 읽기 → 선별적 재독 → 문제 해결",
+      "difficultyProgression": "기본 이해 → 분석적 추론",
+      "conceptProgression": "사실 확인 → 논리적 추론"
+    }
+  },
+  
+  "curriculum": {
+    "achievementStandards": [
+      {
+        "code": "12독서02-01",
+        "description": "글에 드러난 정보를 바탕으로 중심 내용, 주제, 글의 구조와 전개 방식 등 사실적 내용을 파악하며 읽는다.",
+        "relevance": "high"
+      }
+    ],
+    "curriculumVersion": "2015개정"
+  },
+  
+  "creator": {
+    "role": "데모",
+    "quizAtlasId": null,
+    "isOriginalCreator": true,
+    "creationType": "demo_creation"
+  },
+  
+  "aiMetadata": {
+    "usedAiInCreation": false,
+    "aiAssistanceLevel": "none",
+    "humanVerified": true,
+    "training": {
+      "trainingDataGenerated": false,
+      "markupValidated": true,
+      "learningDataQuality": null,
+      "optimizationScore": null
+    }
+  },
+  
+  "visibility": "public",
+  "accessLevel": "PUBLIC",
+  "createdAt": "2025-08-25T10:00:00.000Z",
+  "updatedAt": "2025-08-25T10:00:00.000Z",
+  "importedAt": "2025-08-25T10:00:00.000Z",
+  "status": "published",
+  "version": 1,
+  "schemaVersion": "13.0"
+}

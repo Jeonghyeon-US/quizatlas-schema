@@ -1,0 +1,61 @@
+# === CONFIDENTIAL FILES (DO NOT UPLOAD) ===
+# Full schema documentation - contains proprietary information
+reference/
+
+# Internal development files
+
+# === NODE.JS & NPM ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+.npm
+.eslintcache
+
+# === EDITOR & OS FILES ===
+# VS Code
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Desktop.ini
+
+# Linux
+*~
+
+# === BUILD & TEMP FILES ===
+dist/
+build/
+*.tgz
+*.tar.gz
+.nyc_output
+
+# === LOGS & RUNTIME ===
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# === SECURITY & KEYS ===
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.key
+*.pem

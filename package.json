@@ -1,0 +1,27 @@
+{
+  "name": "quizatlas-demo",
+  "version": "1.0.0",
+  "description": "QuizAtlas Demo Schema Validator - Demo purposes only",
+  "scripts": {
+    "validate": "ts-node demo-validate.ts",
+    "validate:en": "ts-node demo-validate.ts schema/sample_item_set.en.json",
+    "validate:ko": "ts-node demo-validate.ts schema/sample_item_set.ko.json",
+    "validate:all": "npm run validate:en && npm run validate:ko"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0",
+    "zod": "^3.22.0"
+  },
+  "keywords": [
+    "education",
+    "assessment",
+    "demo",
+    "schema-validation"
+  ],
+  "author": "QuizAtlas",
+  "license": "SEE LICENSE IN LICENSE",
+  "private": true,
+  "note": "This package.json is for demo validation only. The full DB13 specification and validation tools are not included."
+}

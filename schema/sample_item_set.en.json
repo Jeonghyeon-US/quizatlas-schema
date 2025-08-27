@@ -1,0 +1,200 @@
+{
+  "questionId": "DEMO-2508-INT-S0001-ENdemo",
+  "questionType": "set",
+  "locale": "en-US",
+  "idComponents": {
+    "organizationCode": "DEMO",
+    "yearMonth": "2508", 
+    "subjectCode": "INT",
+    "questionType": "S",
+    "questionNumber": "0001",
+    "roleCode": "EN",
+    "memberCode": "demo",
+    "academicYear": "2025"
+  },
+  
+  "organizationCode": "DEMO",
+  "organizationName": "QuizAtlas Demo",
+  "organizationType": "demo",
+  
+  "questionNumber": 1,
+  "examInfo": {
+    "examName": "QuizAtlas Demo Set",
+    "examDate": "2025-08-25T00:00:00.000Z",
+    "academicYear": "2025",
+    "subject": {
+      "group": "Reading",
+      "detail": "International Trade",
+      "code": "INT"
+    }
+  },
+  
+  "content": {
+    "setTitle": "Understanding Fair Trade Systems",
+    "commonPassage": {
+      "title": "Anti-dumping and Countervailing Duties",
+      "content": "Maintaining fair competition in international trade is essential for ensuring the benefits of free trade. However, some companies or countries attempt to gain competitive advantages through unfair practices that distort markets. To address these unfair trade practices, the World Trade Organization (WTO) recognizes two key trade remedy measures: anti-dumping duties and countervailing duties. While these measures may appear similar on the surface, they target different practices and operate under distinct principles.",
+      "passageType": "Non-fiction",
+      "textGenre": "Expository",
+      "wordCount": 380,
+      "readingLevel": "Upper Secondary",
+      "sourceInfo": "QuizAtlas Demo - Abbreviated passage for demonstration"
+    },
+    
+    "questions": [
+      {
+        "questionNumber": 1,
+        "stem": "Which of the following statements is inconsistent with the passage?",
+        "options": [
+          {
+            "identifier": "①",
+            "text": "Dumping refers to companies pricing the same product differently in domestic and export markets.",
+            "isCorrect": false,
+            "explanation": "This correctly describes dumping as price discrimination for identical products."
+          },
+          {
+            "identifier": "②",
+            "text": "Subsidies subject to countervailing duties only require government financial contribution.",
+            "isCorrect": true,
+            "explanation": "Incorrect. Subsidies must meet three criteria: financial contribution, benefit conferral, and specificity."
+          },
+          {
+            "identifier": "③",
+            "text": "The WTO recognizes both anti-dumping and countervailing duties as legitimate trade remedies.",
+            "isCorrect": false,
+            "explanation": "This is consistent with the passage describing WTO's recognition of both measures."
+          }
+        ],
+        "correctAnswer": "②",
+        "scorePoint": 2,
+        
+        "hints": [
+          {
+            "level": 1,
+            "content": "Carefully compare each option against the specific details in the passage.",
+            "revealConditions": {
+              "attemptCount": 1,
+              "timeElapsed": 30
+            }
+          }
+        ]
+      },
+      
+      {
+        "questionNumber": 2,
+        "stem": "Which inference based on the passage is NOT appropriate?",
+        "options": [
+          {
+            "identifier": "①",
+            "text": "The initiation of trade remedy investigations alone can burden exporting companies regardless of final duties.",
+            "isCorrect": false,
+            "explanation": "This is a valid inference about the 'chilling effect' mentioned in similar contexts."
+          },
+          {
+            "identifier": "②",
+            "text": "Anti-dumping and countervailing duties cannot be simultaneously applied to the same product due to different regulatory targets.",
+            "isCorrect": true,
+            "explanation": "This is incorrect. Since they target different actors (private vs. government), both can apply simultaneously."
+          },
+          {
+            "identifier": "③",
+            "text": "Trade remedy measures can serve as tools for both fair trade protection and protectionism.",
+            "isCorrect": false,
+            "explanation": "This is a reasonable inference about the dual nature of these measures."
+          }
+        ],
+        "correctAnswer": "②",
+        "scorePoint": 3
+      }
+    ]
+  },
+  
+  "setAnalysis": {
+    "totalQuestions": 2,
+    "totalScore": 5,
+    "difficulty": "medium",
+    "estimatedTime": 6,
+    
+    "searchTags": ["#InternationalTrade", "#Antidumping", "#CountervailingDuties", "#WTO", "#Reading"],
+    "categoryTags": ["Reading_Nonfiction", "Economics_Trade"],
+    "difficultyTags": ["Medium", "#AnalyticalThinking", "#Inference"],
+    "conceptTags": ["InternationalTrade", "#TradeRemedies", "#FairCompetition"],
+    
+    "timeDistribution": {
+      "passageReading": 180,
+      "questionSolving": 180,
+      "total": 360
+    },
+    
+    "expectedSetSuccessRate": 0.65
+  },
+  
+  "references": [
+    {
+      "type": "regulation",
+      "title": "WTO Anti-Dumping Agreement",
+      "url": "https://www.wto.org/english/docs_e/legal_e/19-adp_01_e.htm",
+      "relevance": "high",
+      "description": "Legal basis for international trade regulations"
+    },
+    {
+      "type": "textbook",
+      "title": "International Economics: Theory and Policy",
+      "section": "Trade Policy Instruments",
+      "relevance": "medium",
+      "description": "Academic reference for trade remedy concepts"
+    }
+  ],
+  
+  "setCreatorNotes": {
+    "designIntent": "This set evaluates understanding of international trade fairness mechanisms and analytical reasoning skills.",
+    "teachingTips": [
+      "Ensure students read the entire passage before attempting questions.",
+      "Question 1 tests factual comprehension, Question 2 requires inference skills - approach them sequentially."
+    ],
+    "setStructure": {
+      "readingStrategy": "Full reading → Selective re-reading → Problem solving",
+      "difficultyProgression": "Basic comprehension → Analytical inference",
+      "conceptProgression": "Fact verification → Logical reasoning"
+    }
+  },
+  
+  "curriculum": {
+    "achievementStandards": [
+      {
+        "code": "12READ02-01",
+        "description": "Students comprehend informational texts by identifying central ideas, themes, and text structures.",
+        "relevance": "high"
+      }
+    ],
+    "curriculumVersion": "Demo Standard v1.0"
+  },
+  
+  "creator": {
+    "role": "demo",
+    "quizAtlasId": null,
+    "isOriginalCreator": true,
+    "creationType": "demo_creation"
+  },
+  
+  "aiMetadata": {
+    "usedAiInCreation": false,
+    "aiAssistanceLevel": "none",
+    "humanVerified": true,
+    "training": {
+      "trainingDataGenerated": false,
+      "markupValidated": true,
+      "learningDataQuality": null,
+      "optimizationScore": null
+    }
+  },
+  
+  "visibility": "public",
+  "accessLevel": "PUBLIC",
+  "createdAt": "2025-08-25T10:00:00.000Z",
+  "updatedAt": "2025-08-25T10:00:00.000Z",
+  "importedAt": "2025-08-25T10:00:00.000Z",
+  "status": "published",
+  "version": 1,
+  "schemaVersion": "13.0"
+}
