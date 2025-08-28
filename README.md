@@ -15,17 +15,19 @@ It provides minimal examples and walkthroughs to illustrate the potential of thi
 
 ---
 
-## Why Korean CSAT Data?
+Why Korean CSAT Data Matters for Global AI in Education
 
-The Korean CSAT is one of the few large-scale, **publicly released and rigorously verified national exams** worldwide.  
-This makes it valuable not only for Korea but also as an international benchmark dataset.
+Korea’s CSAT (수능) exam is not just a national test—it is one of the world’s most rigorously designed and openly released standardized exams:
+	•	Passages are authored with input from domain professors, not only language teachers.
+	•	Questions are reviewed by nationwide high school teachers.
+	•	After the exam, all items and answers are officially published, with objections and revisions resolved transparently.
+	•	This process has been repeated for 20+ years, across all subjects.
 
-Key qualities of CSAT questions:
-- **Precision**: Crafted by Korea Institute for Curriculum and Evaluation (KICE) with multi-stage review
-- **Verification**: Public release and official challenge process after every exam
-- **Quality**: Developed in one of the world’s most competitive education systems
-- **Standardization**: Consistent structure across subjects and years
+More than 70% of Korean students enter university through this exam, making it one of the most widely experienced standardized assessments worldwide.
 
+On top of that, Korea’s private education market exceeded ₩29 trillion (~$21B USD) last year. Individual CSAT questions are so valued that publishers pay tens to hundreds of thousands of won per question for copyright.
+
+👉 This makes CSAT data a unique international benchmark dataset for AI training, educational research, and learning analytics.
 ---
 
 ## Repository Structure
