@@ -128,6 +128,7 @@ npm run validate:ko       # Korean samples only
 - All original copyrights remain with their owners (e.g., KICE, publishers).
 - quizatlas.project@gmail.com for details.
 
+[LinkedIn](https://www.linkedin.com/in/jeonghyeon-lim-b06a8937b)
 
 ---
 

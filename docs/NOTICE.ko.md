@@ -75,6 +75,8 @@
 문의 사항 (예: 파트너십, 기술 통합, 학술 협력, 라이선스 논의 등)은  
 quizatlas.project@gmail.com을 이용해 주시기 바랍니다.
 
+[LinkedIn](https://www.linkedin.com/in/jeonghyeon-lim-b06a8937b)
+
 ## 법적 준수 (Legal Compliance)
 
 본 데모 저장소는 다음을 준수합니다:

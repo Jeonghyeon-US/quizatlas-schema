@@ -80,6 +80,8 @@ For inquiries about:
 
 Please use the contact quizatlas.project@gmail.com.
 
+[LinkedIn](https://www.linkedin.com/in/jeonghyeon-lim-b06a8937b)
+
 ## Legal Compliance
 
 This demonstration repository operates under:

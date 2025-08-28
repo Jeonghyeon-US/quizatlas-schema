@@ -91,6 +91,8 @@ A: 네. DB13 스키마는 언어 및 국가에 독립적이며 확장 가능합�
 
 문의는 quizatlas.project@gmail.com를 통해 주세요.
 
+[LinkedIn](https://www.linkedin.com/in/jeonghyeon-lim-b06a8937b)
+
 ---
 
 ## 저자 소개
