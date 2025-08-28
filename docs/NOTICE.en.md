@@ -68,6 +68,8 @@ Please contact us through appropriate channels for partnership discussions.
 - **Status**: Active demonstration repository
 - **Support**: Community-driven, no official support guarantees
 
+https://github.com/Jeonghyeon-US/quizatlas-itemgen-demo
+
 - Partnership discussions can unlock access to updated schemas and additional resources
 
 ## Contact Information
