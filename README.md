@@ -144,6 +144,7 @@ Although I am still a student, I have independently built:
 
 My goal is to bridge **educational expertise** and **practical AI applications**, showing how even students can create tools that researchers and companies may find valuable.
 
+https://github.com/Jeonghyeon-US/quizatlas-itemgen-demo
 
 ---
 
